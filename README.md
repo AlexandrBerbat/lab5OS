@@ -9,8 +9,8 @@
 
 ## FULLY MODIFIED CODE
 
-![Image alt](https://github.com/AlexandrBerbat/lab5OS/blob/main/%D0%BB%D0%B0%D0%B15/res/3.jpg)
+![Image alt](https://github.com/AlexandrBerbat/lab5OS/blob/main/%D0%BB%D0%B0%D0%B15/res/4.jpg)
 
 ## TIMER (FULLY MODIFIED CODE)
 
-![Image alt](https://github.com/AlexandrBerbat/lab5OS/blob/main/%D0%BB%D0%B0%D0%B15/res/4.jpg)
+![Image alt](https://github.com/AlexandrBerbat/lab5OS/blob/main/%D0%BB%D0%B0%D0%B15/res/3.jpg)
